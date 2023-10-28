@@ -1,4 +1,4 @@
-# 0x03. Git
+# 0x01. Git
 
 I learnt the basics of Source code management in this project.
 
